@@ -1,7 +1,7 @@
 # Bearing Witness: Grupo de Apoyo Muto & Haverford College Libraries
 <html>
   <body>
-    <p><h>Personal Intro<h><p>
+    <h>Personal Intro<h>
     <p>My name:</p> <p> Naren Roy</p>
     <p>My pronouns: </p> He|him or they|them </p>
     <p>My project(s):</p> <p> Grupo de Apoyo Mutuo (GAM) Digital Archival Work </p>
